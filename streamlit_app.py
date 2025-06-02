@@ -4,4 +4,4 @@ st.title("Halo Dunia")
 st.write(
     "Mari Kita Mengetahui Dunia Bersama Adriel"
 )
-st.image("punya adriel.jpg", width=200)
+st.image("punya adriel bro.jpg", width=200)
